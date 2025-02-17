@@ -2,7 +2,7 @@
 
 A personal travel diary built with React and deployed on GitHub Pages. This single-page application showcases my travel experiences while demonstrating fundamental React concepts.
 
-![Travel Journal Screenshot](src\assets\screenshots\screenshot.png)
+![Travel Journal Screenshot](/screenshots/travel-journal-screenshot.png)
 
 ## 📝 Live Demo
 
