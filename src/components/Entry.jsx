@@ -1,4 +1,4 @@
-
+import markerIcon from '../assets/marker.png';
 
 export default function Entry(props) {
   return (
@@ -13,7 +13,7 @@ export default function Entry(props) {
       <div className="info-container">
         <img
           className="marker"
-          src="./src/assets/marker.png"
+          src={markerIcon}
           alt="map marker icon"
         />
         <span className="country">{props.entry.country}</span>
