@@ -1,9 +1,17 @@
+import gatlinbergImg from './assets/gatlinberg.png';
+import sonicbloomImg from './assets/sonicbloom.png';
+import japanImg from './assets/japan.png';
+import electricFImg from './assets/electricF.png';
+import redwoodImg from './assets/redwood.png';
+import daliImg from './assets/dali.png';
+import gigerImg from './assets/giger.png';
+import escherImg from './assets/escher.png';
 
 export default [
   {
     id: 1,
     img: {
-      src: "./src/assets/gatlinberg.png",
+      src: gatlinbergImg,
       alt: "Gatlinsburg, TN"
     },
     title: "Gatlinburg",
@@ -15,7 +23,7 @@ export default [
   {
     id: 2,
     img: {
-      src: "./src/assets/sonicbloom.png",
+      src: sonicbloomImg,
       alt: "Sonic Bloom"
     },
     title: "Sonic Bloom",
@@ -27,7 +35,7 @@ export default [
   {
     id: 3,
     img: {
-      src: "./src/assets/japan.png",
+      src: japanImg,
       alt: "Tokyo national museum"
     },
     title: "Tokyo National Museum",
@@ -39,7 +47,7 @@ export default [
   {
     id: 4,
     img: {
-      src: "./src/assets/electricF.png",
+      src: electricFImg,
       alt: "Electric Forest"
     },
     title: "Electric Forest",
@@ -51,7 +59,7 @@ export default [
   {
     id: 5,
     img: {
-      src: "./src/assets/redwood.png",
+      src: redwoodImg,
       alt: "Redwood National Park"
     },
     title: "Redwood National Park",
@@ -63,7 +71,7 @@ export default [
   {
     id: 6,
     img: {
-      src: "./src/assets/dali.png",
+      src: daliImg,
       alt: "Salvador Dali Museum"
     },
     title: "Savalador Dali Museum",
@@ -75,7 +83,7 @@ export default [
   {
     id: 7,
     img: {
-      src: "./src/assets/giger.png",
+      src: gigerImg,
       alt: "HR Giger Museum"
     },
     title: "HR Giger Museum",
@@ -87,7 +95,7 @@ export default [
   {
     id: 8,
     img: {
-      src: "./src/assets/escher.png",
+      src: escherImg,
       alt: "M.C Escher museum"
     },
     title: "M.C Escher Museum",
