@@ -56,7 +56,7 @@ export default [
     country: "Japan",
     googleMapsLink: "https://maps.app.goo.gl/uULAkLqBqfzmHkSM7",
     dates: "Feb, 2015",
-    text: "Spent 10 days in Japan with my younger sister & brother. We stayed in a ryokan (traditional Japanese house) in Tokyo and visited the Tokyo National Museum and got to see the 'Great Wave' by Hokusai. We took a bullet train to Kyoto, and visited the Fushimi Inari-taisha shrine. We checked out Akihabara, the worlds largest crosswalk. To wrap the trip up we spent 4 days in Niseko, Hokkaido for skiing."
+    text: "Spent 10 days in Japan with my younger sister & brother. We stayed in a ryokan (traditional Japanese house) in Tokyo and visited the Tokyo National Museum and got to see the 'Great Wave' by Hokusai. We took a bullet train to Kyoto, and visited the Fushimi Inari-taisha shrine. We checked out Akihabara, the worlds largest crosswalk and the Harajuku district in Shibuya, Japan. To wrap the trip up we spent 4 days in Niseko, Hokkaido for skiing."
   },
   {
     id: 5,
@@ -116,7 +116,7 @@ export default [
     country: "The Netherlands",
     googleMapsLink: "https://maps.app.goo.gl/qRhKWgPG83Vpjxah7",
     dates: "Aug, 2011",
-    text: "Drove through the Netherlands on the autobahn from Germany with my best friend Lauren and visited the M.C Escher museum in The Hague. We also visited the Van Gogh Museum in Amsterdam and saw the 'Sunflowers' painting. We visited the Anne Frank House, took a canal tour, and visited the Red Light District. We took a tour of the heineken brewery and saw the 'I amsterdam' sign."
+    text: "Drove through the Netherlands on the autobahn from Germany with my best friend Lauren and visited the M.C Escher museum in The Hague. We also visited the Van Gogh Museum in Amsterdam and saw the 'Sunflowers' painting. We visited the Anne Frank House, took a canal tour, and visited the Red Light District, toured of the heineken brewery, saw the 'I amsterdam' sign and went to the torture museum."
   },
   {
     id: 10,
@@ -128,6 +128,6 @@ export default [
     country: "Colorado",
     googleMapsLink: "https://maps.app.goo.gl/c9941cQLNRReQJ839",
     dates: "Jun, 2009-2011",
-    text: "A one night event I attended for 3 years in a row with a group of friends in Denver, CO. We saw performances by An-ten-nae, Infected Mushroom, The Crystal Method, Paul Van Dyk, Dirty Phonics, 12th Planet, Kill the Noise, Benny Benassi, Kaskade, Ferry Corsten, Datsik, Axwell, Manufactured Superstars, ATB, Sander Van Doorn, Feed Me, Nosia, Downlink, Break Science, and many more."
+    text: "A one night event I attended for 3 years in a row with a group of friends in Denver, Colorado. We saw performances by An-ten-nae, Infected Mushroom, The Crystal Method, Paul Van Dyk, Dirty Phonics, 12th Planet, Kill the Noise, Benny Benassi, Kaskade, Ferry Corsten, Datsik, Axwell, Manufactured Superstars, ATB, Sander Van Doorn, Feed Me, Nosia, Downlink, Break Science, and many more."
   }
 ]
