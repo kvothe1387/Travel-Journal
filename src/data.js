@@ -16,7 +16,7 @@ export default [
       src: gatlinbergImg,
       alt: "Gatlinsburg, TN"
     },
-    title: "Gatlinburg",
+    title: "Great Smoky Mountains National Park",
     country: "Tennesssee",
     googleMapsLink: "https://maps.app.goo.gl/5BQBeLLtcPbBjYPf8",
     dates: "Jun, 2023",
