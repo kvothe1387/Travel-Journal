@@ -139,5 +139,5 @@ export default [
     dates: "Jun, 2009-2011",
     text: "A one night event I attended for 3 years in a row with a group of friends in Denver, Colorado. We saw performances by An-ten-nae, Infected Mushroom, The Crystal Method, Paul Van Dyk, Dirty Phonics, 12th Planet, Kill the Noise, Benny Benassi, Kaskade, Ferry Corsten, Datsik, Axwell, Manufactured Superstars, ATB, Sander Van Doorn, Feed Me, Nosia, Downlink, Break Science, and many more.",
     category: "concerts"
-  }
+  },
 ]

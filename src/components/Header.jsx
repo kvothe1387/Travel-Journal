@@ -1,10 +1,14 @@
 import globeImg from '../assets/globe.png';
+import React from 'react';
+
+
 export default function Header() {
   return (
-    <header>
-      <img src={globeImg} alt="globe icon" />
-      <h1>My Travel Journal</h1>
-
+    <header className="header">
+      <div className="header-content">
+        <img src={globeImg} alt="Globe icon" className="header-icon" />
+        <h1>My Travel Journal</h1>
+      </div>
     </header>
-  )
-} 
+  );
+}
