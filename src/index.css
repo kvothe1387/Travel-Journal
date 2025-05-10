@@ -8,6 +8,7 @@ body {
   background-color: #f9f9f9;
   color: #2B283A;
   line-height: 1.5;
+  padding-top: 60px;
 }
 
 * {
@@ -22,12 +23,16 @@ body {
 
 header {
   background: #F55A5A;
+  position: fixed;
+  top: 0;
   display: flex;
+  width: 100%;
   justify-content: center;
   align-items: center;
   color: white;
   height: 65px;
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+
 }
 
 header>img {
