@@ -8,10 +8,24 @@ import gigerImg from './assets/giger.png';
 import escherImg from './assets/escher.png';
 import winterparkImg from './assets/winterpark.png';
 import edcImg from './assets/edc.png';
+import sedonaImg from './assets/sedona.jpg';
 
 export default [
   {
-    id: 1,
+    id: 11,
+    img: {
+      src: sedonaImg,
+      alt: "Sedona, AZ"
+    },
+    title: "The Grand Canyon",
+    country: "Arizona",
+    googleMapsLink: "https://maps.app.goo.gl/oCy3xALDUkPAAfy76",
+    dates: "May, 2025",
+    text: "Spent 6 days in Sedona with my family. Went to Sandia Peak, Walnut Canyon, The Grand Canyon, & The Petrified Forest Ntl Park. Checked out the Lava Tubes, lava river cave in Flagstaff. Went on a hot air ballon. Got a really neat picture of a hot air ballon eclipse. Added a piece of petrified tree to my collection.",
+    category: "national-parks"
+  },
+  {
+    id: 10,
     img: {
       src: gatlinbergImg,
       alt: "Gatlinsburg, TN"
@@ -24,7 +38,7 @@ export default [
     category: "national-parks"
   },
   {
-    id: 2,
+    id: 9,
     img: {
       src: winterparkImg,
       alt: "Winter Park, CO"
@@ -37,7 +51,7 @@ export default [
     category: "national-parks"
   },
   {
-    id: 3,
+    id: 8,
     img: {
       src: sonicbloomImg,
       alt: "Sonic Bloom"
@@ -50,7 +64,7 @@ export default [
     category: "concerts"
   },
   {
-    id: 4,
+    id: 7,
     img: {
       src: japanImg,
       alt: "Tokyo national museum"
@@ -63,7 +77,7 @@ export default [
     category: ["museums", "international"]
   },
   {
-    id: 5,
+    id: 6,
     img: {
       src: electricFImg,
       alt: "Electric Forest"
@@ -76,7 +90,7 @@ export default [
     category: "concerts"
   },
   {
-    id: 6,
+    id: 5,
     img: {
       src: redwoodImg,
       alt: "Redwood National Park"
@@ -89,7 +103,7 @@ export default [
     category: "national-parks"
   },
   {
-    id: 7,
+    id: 4,
     img: {
       src: daliImg,
       alt: "Salvador Dali Museum"
@@ -102,7 +116,7 @@ export default [
     category: "museums"
   },
   {
-    id: 8,
+    id: 3,
     img: {
       src: gigerImg,
       alt: "HR Giger Museum"
@@ -115,7 +129,7 @@ export default [
     category: ["museums", "international"]
   },
   {
-    id: 9,
+    id: 2,
     img: {
       src: escherImg,
       alt: "M.C Escher museum"
@@ -128,7 +142,7 @@ export default [
     category: ["museums", "international"]
   },
   {
-    id: 10,
+    id: 1,
     img: {
       src: edcImg,
       alt: "Electric Daisy Carnival"
