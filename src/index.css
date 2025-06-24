@@ -36,14 +36,14 @@ body {
   gap: 8px;
 }
 
-header>img {
+.header>img {
   width: 24px;
   height: 24px;
   margin-right: 7px;
   transition: transform 0.3s ease;
 }
 
-header>img:hover {
+.header>img:hover {
   transform: rotate(360deg);
 }
 
@@ -215,6 +215,15 @@ article.journal-entry .main-image {
 @media (max-width: 768px) {
   article.journal-entry {
     flex-direction: column;
+  }
+
+  .filter-container {
+    gap: 8px;
+  }
+
+  .filter-btn {
+    padding: 6px 12px;
+    font-size: 13px;
   }
 
   article.journal-entry .main-image-container {
