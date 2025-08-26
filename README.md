@@ -128,7 +128,7 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-- GitHub: [kvothe1387](https://github.com/kvothe1387)
+- GitHub: [David McCullough](https://github.com/kvothe1387)
 - LinkedIn: [David McCullough](https://www.linkedin.com/in/davidmcc-webdev/)
 - Portfolio: [My Portfolio](https://davidmcc.netlify.app/)
 ---
