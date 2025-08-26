@@ -126,12 +126,11 @@ Through building this project, I gained valuable experience with:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 👤 Author
+## 👨‍💻 Author
 
-**David McCullough**
-- GitHub: [@kvothe1387](https://github.com/kvothe1387)
-- LinkedIn: [/davidmc1387](https://www.linkedin.com/in/davidmc1387/)
-
+- GitHub: [kvothe1387](https://github.com/kvothe1387)
+- LinkedIn: [David McCullough](https://www.linkedin.com/in/davidmcc-webdev/)
+- Portfolio: [My Portfolio](https://davidmcc.netlify.app/)
 ---
 
 *This project was created as part of my journey to improve my React skills and document my travels.*
